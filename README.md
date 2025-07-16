@@ -93,7 +93,7 @@ Bot: Goodbye! Have a nice day.
 
 ## Video
 
-[Video on YouTube]()
+[Video on YouTube](https://youtu.be/8xCBiEs--Q4)
 
 ## Explanation
 

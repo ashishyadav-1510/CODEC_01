@@ -216,3 +216,5 @@ Calls get_response() to generate a reply.
 Displays the bot's response.
 Calls log_interaction() to save the interaction to the database.
 
+### Author
+***Ashish Yadav***
